@@ -4,7 +4,7 @@
 
 
 |           **Command**                    |             **Description**              |
-|:-----------------------------------------|:----------------------------------------:|
+|:-----------------------------------------|:-----------------------------------------|
 | ``juju login -c <controller> -u <user>`` | Login to controller as user              |
 | ``juju status``                          | Get an overview                          |
 | ``juju gui``                             | Open gui (browser)                       |
