@@ -19,7 +19,7 @@
 
 ## Woensdag 21 feb
 
-- Verdieping in subordinates materie (9-12 + 19.30-22.30)
+- Verdieping in subordinates materie (9-12 + 19.30-22)
 
 ## Donderdag 22 feb
 
