@@ -41,5 +41,16 @@ cd charms/testing
 
 charm create vanilla
 
+juju deploy local:/mysimplephpapp
+
 ```
 
+## Adding ssh-keys
+
+To use the command ``juju ssh <machinenr>`` you first have to add a public key to juju. You can do this with ``juju add-ssh-key <public key>``. Generating a keypay can with the command ``ssh-keygen -t rsa``.
+
+```
+
+mysql -u root -p`sudo cat /var/lib/mysql/mysql.passwd`
+
+```
