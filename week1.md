@@ -1,40 +1,61 @@
 # Week 1
 
-## Algemeen
+Rel. means relevance for thesis. Because this functions as a logbook I will include entries that are not directly relevant for the thesis but for the sake of completeness. These entries may or may not be removed in the final logbook-report.
 
-- (Communicatiemodele L. Pollefliet)
-- Projectstructuur LaTeX masterproef
-- Meeting week 1
-- Installatie openvpn - juju
-- Verbinding en mini test
-- Opzetten logboek/github/gitbook/kanban-board/issues
-- Lezen van artikels
+## Global
+
+- Setting up software (openvpn - juju)
+- Setting up Logbook/Blog (github/gitbook/kanban-board)
+- First test with juju + documentation
+- First read articles
+
+## Issues & remarks (for next week)
+
+- Understanding juju (under the hood)
+- Understanding reactive framework
+- Sick
 
 ## Maandag 12 feb
-- (L. Pollefliet) (voormiddag)
-- LaTeX skelet voor document (namiddag & avond)
+
+| Hours                       | Topic                                     | Rel.* | Remarks |
+|-----------------------------|-------------------------------------------|-------|---------|
+|        09.00 - 12.00        | Communicatie presentation (L. Pollefliet) |   No  |         |
+| 13.00 - 15.00 19.00 - 20.30 |              LaTeX structure              |  Yes  |         |
+
 
 ## Dinsdag 13 feb
-- Meeting week 1 (voormiddag)
-- Opzetten software en testverbinding (openvpn, juju)
+
+| Hours                       | Topic                                    | Rel.* | Remarks |
+|-----------------------------|------------------------------------------|-------|---------|
+|        08.30 - 10.00        | Preparation meeting 1                    |  Yes  |         |
+|        10.00 - 11.30        | Meeting 1                                |  Yes  |         |
+|        12.30 - 15.30        | Setting up software (openvpn, juju)      |  Yes  |         |
 
 ## Woensdag 14 feb
-- Enkele mini testjes om de installaties te testen
-- Doornemen van juju documentatie 
+
+| Hours                       | Topic                                    | Rel.* | Remarks |
+|-----------------------------|------------------------------------------|-------|---------|
+|        09.30 - 12.00        | First juju tests                         |  Yes  |         |
+|        14.00 - 16.30        | First juju tests (documentation)         |  Yes  |         |
 
 ## Donderdag 15 feb
-- Artikel "Model-driven Deployment and Management of Workflows on Analytics Frameworks"
-- TOSCA simple profile luchtig doorgenomen
+
+| Hours                       | Topic                                    | Rel.* | Remarks |
+|-----------------------------|------------------------------------------|-------|---------|
+|        09.30 - 12.00        | Article "Model-driven Deployment and Management of Workflows on Analytics Frameworks"     |  Yes  |         |
+|        14.00 - 16.30        | TOSCA simple profile (not in depth)      |  Yes  |         |
+
 
 ## Vrijdag 16 feb
-- Opzetten gitbook/github/kanban-board (voor workflow)
+
+| Hours                       | Topic                                    | Rel.* | Remarks |
+|-----------------------------|------------------------------------------|-------|---------|
+|        09.30 - 12.00        | Setting up logbook (gitbook, kanban...)  |  Yes  |         |
+|        13.00 - 16.30        | Reading through juju documentation       |  Yes  |         |
+
 
 ## Zondag 18 feb 
-- "how juju works"-document gestart met een eerste overzicht
+| Hours                       | Topic                                    | Rel.* | Remarks |
+|-----------------------------|------------------------------------------|-------|---------|
+|        13.30 - 16.30        | Started on own "how juju works documentation"|  Yes  |         |
 
-
-## Opmerkingen en problemen
-
-- Ziek gevallen en minder gedaan dan voorzien.
-- Naar volgende week toe duidelijkheid voor eerste charms en concrete start naar implementatie
-- Applicatiekant om te gebruiken voorlopig een php pagina (en als tweede misschien een tomcat war)
