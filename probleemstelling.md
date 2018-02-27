@@ -56,3 +56,78 @@ The current **problem** in juju is the lack of visually knowing what the mysql s
 
 
 In a next step we would want to a level higher. We will research if it possible to create a generic database charm that is linked with the intermediate "<technology> database charm" and on it's turn linked to the existing technology server charm. 
+
+
+UPDATE (for reread)
+
+[Source](https://jujucharms.com/docs/stable/interface-mysql) "When the mysql charm is notified of a “relation joined” event, it creates a database". This is an implementation choice of the mysql charm and it shows that "my model" we have no possibilities to actually make relations between databases or tables. Imagine again trying to connect 2 different webapplications to the same database.
+
+
+
+## In action 
+
+Let's assume we have a working bootstrapped juju configuration to work with. On this image INSERT IMAGE the juju gui is shown as accessible in the browser. Deploying juju services is as easy as running the command ``juju deploy <service>``. A lot of services are already provided on the juju charm store. In a lot of cases it might be interesting to create your own charms. In this write up we will focus on creating some small examples for charms that will be connected (a relation will be added) to charms from the charm store (mysql or mongodb for example). The first step in understanding juju is creating a very basic example. The service we want to create is nothing more then an apache server that will run a php application. The php application will have 2 files, one to read and one to write to a mysql datastore. Our second application will be a nodejs application that does the same thing. For production uses we will manually ssh to our mysql machine and create a temporary database. INSERT IMAGE After ssh'ing to the machine use ``mysql -u root -p`` to login to the mysql client. The password can be found in ``/var/lib/mysql/mysql.passwd``
+
+Let's create a table and insert some values.
+
+```sql
+create database test;
+
+use test;
+
+create table items(
+id INT NOT NULL AUTO_INCREMENT,
+name VARCHAR(100) NOT NULL,
+price INT NOT NULL, 
+PRIMARY KEY (id)
+); 
+
+
+insert into items (name, price) values (tv, 200);
+insert into items (name, price) values (laptop, 1000);
+
+
+```  
+
+
+The next step is creating the application. Before actually creating our charm let's run our app locally. This let's us now the "operation step(s)". This will tell us what services need to be installed and where we will need to deploy our app. These steps are the steps we will need to reproduce in the charm (using the reactive framework) in python-code.
+
+```
+sudo apt-get install apache2 -y
+sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql -y
+
+# Apache2 Ubuntu Default Page get's displayed when surfing to your own IP
+
+sudo vim /var/www/html/info.php
+
+<?php
+
+phpinfo();
+
+?>
+
+# PHP information get's displayed when surfing to IP/info.php
+
+```
+
+The above steps (testing the ubuntu default page and the info.php) ensures that apache is running and php is installed.
+Let us now create our php application. We will create 2 php files: a config.php that will have the configuration parameters to connect to the mysql database, a read.php to read from the mysql database and a write.php to write towards the database.
+
+### Read.php
+
+```php
+
+<?php 
+
+$db_user = "";
+$db_pass = "";
+$db_host = "";
+$db_db = "";
+
+$db_handle = mysql_connect($db_host, $db_user, $db_pass, $db_db) or die()
+
+?>
+
+```
+
+
