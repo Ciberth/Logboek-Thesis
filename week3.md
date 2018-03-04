@@ -5,48 +5,55 @@ Rel. means relevance for thesis. Because this functions as a logbook I will incl
 
 ## Global
 
+- Implementation step 0
+- Defining problem statement, goal and literature
+- Research articles
 
 
 ## Issues & remarks (for next week)
-
+- Todo: some step 0 fixes
+- Todo: step1a (and/or b)
+- Don't try to first do things manually and then in juju -> much time loss
+- Todo: In thesis writeup  
 
 
 ## Maandag 26 feb 
 
-| Hours                       | Topic                                     | Rel.* | Remarks |
-|-----------------------------|-------------------------------------------|-------|---------|
-|        10.00 - 11.00        | Refactoring logbook + fixes (gh issues)   |  Yes  |         |
-|        13.30 - 16.30        | Research approaches and other tools with same modelling (operation) techniques |  Yes  | Juju is pretty much alone  |
+| Time (minutes) | Topic                                     | Remarks |
+|-----|------------------------------------------------------|:-------:|
+| 60  | Refactoring logbook + fixes (gh issues)              |    -    |
+| 180 | Research approaches and other tools with same modelling (operation) techniques | Look into bitname stacksmith, terraform, amazon cloudform |
+
 
 
 ## Dinsdag 27 feb
 
+| Time (minutes) | Topic                                     | Remarks |
+|-----|------------------------------------------------------|:-------:|
+| 400 | Creating mini php app + nodejs app + visualising problem statement | Do directly with juju not manual + existing server! Huge timeloss |
+| 150 | Searching examples and making documents              |    -    |
 
-| Hours                       | Topic                                     | Rel.* | Remarks |
-|-----------------------------|-------------------------------------------|-------|---------|
-| 09.00 - 12.30 13.30 - 17.30 | Creating mini php app + nodejs app + visualising problem statement |  Yes  | Can't connect to inner mysql server without manual intervention -> easier immediately with juju        |
-| 20.30 - 22.00               | Searching examples and making documents   |  Yes  |    -    |
+
 
 ## Woensdag 28 feb
 
-| Hours                       | Topic                                     | Rel.* | Remarks |
-|-----------------------------|-------------------------------------------|-------|---------|
-| 9.00 - 11.00 13.00 - 16.00  | Reactive charm php deployment             |  Yes  |         |
+| Time (minutes) | Topic                                     | Remarks |
+|-----|------------------------------------------------------|:-------:|
+| 300 | Reactive charm php deployment (step 0)               |    -    |
+
 
 ## Donderdag 1 mrt
 
-| Hours                       | Topic                                     | Rel.* | Remarks |
-|-----------------------------|-------------------------------------------|-------|---------|
-|       9.00 - 13.00          | Reactive charm php deployment + fixes     |  Yes  |         |
+| Time (minutes) | Topic                                     | Remarks |
+|-----|------------------------------------------------------|:-------:|
+| 250 | Reactive charm php deployment + fixes                |    -    |
 
-## Vrijdag 2 mrt
-
-| Hours                       | Topic                                     | Rel.* | Remarks |
-|-----------------------------|-------------------------------------------|-------|---------|
-|                 |      |  Yes  |         |
 
 ## Zondag 4 mrt
 
-| Hours                       | Topic                                     | Rel.* | Remarks |
-|-----------------------------|-------------------------------------------|-------|---------|
-|       10.30 - 12.00         | Reading on diffent tools (CAPS vs terraform vs cloudformation)     |  Yes  |         |
+| Time (minutes) | Topic                                     | Remarks |
+|-----|------------------------------------------------------|:-------:|
+| 40  | Refactored logging - now in minutes (automated)      |    -    |
+| 150 | Reading on diffent tools (CAPS vs terraform vs cloudformation) | Article founder cfengine, Luke (puppet) & Mitchell Hashimoto opinions! |
+| 240 | Some proper writing and combining documentation on gitbook |    -    |
+
