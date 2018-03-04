@@ -55,5 +55,5 @@ Rel. means relevance for thesis. Because this functions as a logbook I will incl
 |-----|------------------------------------------------------|:-------:|
 | 40  | Refactored logging - now in minutes (automated)      |    -    |
 | 150 | Reading on diffent tools (CAPS vs terraform vs cloudformation) | Article founder cfengine, Luke (puppet) & Mitchell Hashimoto opinions! |
-| 240 | Some proper writing and combining documentation on gitbook |    -    |
+| 180 | Some proper writing and combining documentation on gitbook |    -    |
 
