@@ -41,6 +41,7 @@ For operations engineers:
 - Michael DeHaan
 - Mark Burgess
 - Thomas S Hatch
+- Adam Stokes
 
 Questions:
 
@@ -49,3 +50,4 @@ Questions:
 - What is the next step in IaC & CM
 - Use of modelling techniques
 - Is abstracting of complexity a good technique and even possible
+- Could you walk us through your workflow when setting up something like this ...

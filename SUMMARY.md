@@ -1,6 +1,6 @@
 # Summary
 * [Problem statement](problem.md)
-* [Functional analyses]()
+* [Functional analysis]()
     * [Understanding IaC](iaac.md)
 	* [As-is situation](asis.md)
 	* [To-be situation](tobe.md)
