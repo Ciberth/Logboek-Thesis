@@ -1,8 +1,5 @@
 # Week 3
 
-
-Rel. means relevance for thesis. Because this functions as a logbook I will include entries that are not directly relevant for the thesis but for the sake of completeness. These entries may or may not be removed in the final logbook-report.
-
 ## Global
 
 - Implementation step 0
@@ -14,7 +11,7 @@ Rel. means relevance for thesis. Because this functions as a logbook I will incl
 - Todo: some step 0 fixes
 - Todo: step1a (and/or b)
 - Don't try to first do things manually and then in juju -> much time loss
-- Todo: In thesis writeup  
+- Todo: In thesis writeup for 25 page deadline
 
 
 ## Maandag 26 feb 
