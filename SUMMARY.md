@@ -1,6 +1,7 @@
 # Summary
 * [Problem statement](problem.md)
 * [Functional analyses]()
+    * [Understanding IaaC](iaac.md)
 	* [As-is situation](asis.md)
 	* [To-be situation](tobe.md)
 	* [Juju: Step 0 ](fstep0.md)

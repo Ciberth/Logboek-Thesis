@@ -28,6 +28,7 @@
 
 | Time (minutes) | Topic                                     | Remarks |
 |-----|------------------------------------------------------|:-------:|
-| 120 | Combining documentation and prototyping in gitbook   |    -    |
+| 130 | Combining documentation and prototyping in gitbook   | Some research about CloudFormation vs Terraform as well |
+
 
 
