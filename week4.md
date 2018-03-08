@@ -29,6 +29,14 @@
 | Time (minutes) | Topic                                     | Remarks |
 |-----|------------------------------------------------------|:-------:|
 | 130 | Combining documentation and prototyping in gitbook   | Some research about CloudFormation vs Terraform as well |
+| 240 | Searching papers & Reading & writing on IaC & modelling of IaC |    -    |
+
+
+## Donderdag 8 mrt
+
+| Time (minutes) | Topic                                     | Remarks |
+|-----|------------------------------------------------------|:-------:|
+|  |               |    -    |
 
 
 
