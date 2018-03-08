@@ -2,6 +2,10 @@
 
 This "To-Be" situation is an iterative step by step process of abstracting and implementing charms in Juju. The idea of abstracting 1 thing and slowly adding more support and functionality allows us to focus on one thing, and one thing only before trying to go on to the next step. This page shows a summary of the different steps. On the other pages these steps are discussed in more detail. As you can see one of the key elements is reusing the charms that exist on the charm store!
 
+## Disclaimer
+
+This to-be representation is part of a research. It does not claim to be better than the existing approaches. Feel free to leave a comment [here](https://github.com/Ciberth/Logboek-Thesis/issues/10) I would love to hear your thoughts.
+
 ## Step 1
 
 ![TO-BE step 1](/images/tobe1.svg)

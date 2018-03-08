@@ -63,3 +63,12 @@ Note that AWS CloudFormation and Terraform both have the same characteristic whe
 ## Focus
 
 As mentioned before Tengu is a tool that is built on top of Juju, therefore the functional approach and the technical implementation in this thesis are limited to Juju. In addition, a lot of thought processes discussed in this research can be useful in other areas, tools or technologies. Because of the broad scope of this subject (and time restrictions), we will limit our look to datastores, their technologies and their possible abstractions in Juju. Note that things like message brokers, queues, topics, load balancers, webservers... all have some way or another use cases where an abstraction might be useful and relevant.  
+
+## Some research questions
+
+- Is abstracting operations knowledge and infrastructure modelling a step forward when it comes to system design and gives it enough flexibility according to industry experts?
+- Is modelling infrastructure as a code the next step in automation and configuration management? Does this offer everything data scientists and developers need when it comes to operations and infrastructure management?
+- Are there tools to manage datastores on the design (visual) level and if not can charms achieve this and how?
+- Would it be possible for Tengu to take the role of virtual database administrator with the researched and implemented charms in Juju? What are the limitations concerning “at design time vs at runtime”?
+- Is there a need for another (not Juju) modelling framework or language that offers the flexibility to use existing tools (Juju, Chef, Puppet...) but allows everything in its models.
+
