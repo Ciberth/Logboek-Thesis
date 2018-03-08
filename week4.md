@@ -36,7 +36,7 @@
 
 | Time (minutes) | Topic                                     | Remarks |
 |-----|------------------------------------------------------|:-------:|
-|  | Writing up as-is, to-be, iac, juju                   |    -    |
-
+| 280 | Writing up as-is, to-be, iac, juju                   |    -    |
+| 60  | Webinar Otter: "An Introduction to Otter: Provision your Servers and Manage Configuration" |    -    |
 
 
