@@ -24,8 +24,8 @@
 
 | Time (minutes) | Topic                                     | Remarks |
 |-----|------------------------------------------------------|:-------:|
-| 90  | Preparation meeting 1                                |    -    |
-| 90  | Meeting 1                                            |    -    |
+| 90  | Preparation meeting                                  |    -    |
+| 90  | Meeting                                              |    -    |
 | 180 | Setting up software (openvpn, juju)                  |    -    |
 
 ## Woensdag 14 feb

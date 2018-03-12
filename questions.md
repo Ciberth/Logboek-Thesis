@@ -42,6 +42,8 @@ For operations engineers:
 - Mark Burgess
 - Thomas S Hatch
 - Adam Stokes
+- cloudify
+- alien 4 cloud people
 
 Questions:
 

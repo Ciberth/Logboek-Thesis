@@ -3,10 +3,16 @@
 ## Global
 
 - Creation of accessible pages for online discussions, interviews
-
+- Found lot of interesting papers for literature
+- Thesisbook structure
 
 ## Issues & remarks (for next week)
 
+- Approval papers by supervisors
+- Structure of thesis approval by supervisors
+- Approval for survey/interviews
+- Further writing for 25 page deadline 
+- Perfectly defining step 1 & step 2 for technical implementation
 
 ## Maandag 5 mrt
 
@@ -40,3 +46,14 @@
 | 60  | Webinar Otter: "An Introduction to Otter: Provision your Servers and Manage Configuration" |    -    |
 
 
+## Vrijdag 9 mrt
+
+| Time (minutes) | Topic                                     | Remarks |
+|-----|------------------------------------------------------|:-------:|
+| 200 | Searching & Reading papers concerning same subject   |    -    |
+
+## Zondag 11 mrt
+
+| Time (minutes) | Topic                                     | Remarks |
+|-----|------------------------------------------------------|:-------:|
+| 300 | Searching & Reading papers concerning same subject   |    -    |

@@ -18,8 +18,8 @@
 
 | Time (minutes) | Topic                                     | Remarks |
 |-----|------------------------------------------------------|:-------:|
-| 120 | Preparation meeting 2                                |    -    |
-| 120 | Meeting 2                                            |    -    |
+| 120 | Preparation meeting                                  |    -    |
+| 120 | Meeting                                              |    -    |
 | 180 | Analysis of tengu team projects                      |    -    |
 
 
@@ -51,7 +51,7 @@
 |-----|------------------------------------------------------|:-------:|
 | 40  | Preparation (sub)meeting                             |    -    |
 | 90  | Meeting: some technical details and help             |    -    |
-| 120 | Reactive framework reread                            |    -    |
+| 120 | Reactive framework re-read                           |    -    |
 
 
 ## Zondag 25 feb
