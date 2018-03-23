@@ -22,35 +22,35 @@
 | Time (minutes) | Topic                                     | Remarks |
 |-----|------------------------------------------------------|:-------:|
 | 90  | Meeting  | Most proposed papers are ok but focus on given ones |
-| 120 | Table of contents prototyping (structure of thesis)  |         |
-| 100 | Reading devops handbook                              |         |
+| 120 | Table of contents prototyping (structure of thesis)  |    -    |
+| 100 | Reading devops handbook                              |    -    |
 
 
 ## Woensdag 14 mrt
 
 | Time (minutes) | Topic                                     | Remarks |
 |-----|------------------------------------------------------|:-------:|
-| 360 | Reading papers and understanding concepts and definitions  |         |
+| 360 | Reading papers and understanding concepts and definitions  |    -    |
 
 
 ## Donderdag 15 mrt
 
 | Time (minutes) | Topic                                     | Remarks |
 |-----|------------------------------------------------------|:-------:|
-| 90  | Table of contents draft for review (google docs)     |         |
-| 180 | Writing (focus on first chapter)                     |         |
+| 90  | Table of contents draft for review (google docs)     |    -    |
+| 180 | Writing (focus on first chapter)                     |    -    |
 
 
 ## Vrijdag 16 mrt
 
 | Time (minutes) | Topic                                     | Remarks |
 |-----|------------------------------------------------------|:-------:|
-| 240 | New LaTeX template setup overleaf + some writing     |         |
+| 240 | New LaTeX template setup overleaf + some writing     |    -    |
 
 ## Zondag 18 mrt
 
 | Time (minutes) | Topic                                     | Remarks |
 |-----|------------------------------------------------------|:-------:|
-| 180 | (Re)reading papers (tosca)                           |         |
+| 180 | (Re)reading papers (tosca)                           |    -    |
 
 
