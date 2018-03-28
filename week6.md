@@ -38,3 +38,17 @@
 | Time (minutes) | Topic                                     | Remarks |
 |-----|------------------------------------------------------|:-------:|
 | 160 | (Re)reading and writing ch1                          |    -    |
+
+
+## Vrijdag 23 mrt
+
+| Time (minutes) | Topic                                     | Remarks |
+|-----|------------------------------------------------------|:-------:|
+| 230 | (Re)reading and writing                              |    -    |
+
+
+## Zondag 25 mrt
+
+| Time (minutes) | Topic                                     | Remarks |
+|-----|------------------------------------------------------|:-------:|
+| 200 | (Re)reading and writing                              |    -    |
