@@ -7,6 +7,7 @@
 	* [Juju: Step 0 ](fstep0.md)
 	* [Juju: Step 1 ](fstep1.md)
 * [Implementation]()
+    * [Actions prototyping](actions.md)
 	* [Step 0](istep0.md)
 	* [Step 1a](istep1a.md)
 	* [Step 1b](istep1b.md)

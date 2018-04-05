@@ -28,4 +28,16 @@
 
 | Time (minutes) | Topic                                     | Remarks |
 |-----|------------------------------------------------------|:-------:|
-|     | (Re)reading and writing                              |    -    |
+| 450 | (Re)reading and writing                              |    -    |
+
+## Donderdag 29 mrt
+
+| Time (minutes) | Topic                                     | Remarks |
+|-----|------------------------------------------------------|:-------:|
+| 400 | (Re)reading and writing                              |    -    |
+
+## Vrijdag 30 mrt
+
+| Time (minutes) | Topic                                     | Remarks |
+|-----|------------------------------------------------------|:-------:|
+| 100 | (Re)reading and writing                              |    -    |
