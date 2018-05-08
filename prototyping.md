@@ -4,6 +4,12 @@
 
 There are 3 components we will create in this use case. A consumer application, the generic-database interface and a generic database charm. I try to write everything down from a lifecycle perspective and at the bottom of this page the final code is put together. 
 
+The 3 repo's:
+
+- [Consumer-app](https://github.com/Ciberth/consumer-app)
+- [Generic-database-interface](https://github.com/Ciberth/generic-database-layer)
+- [Generic-database charm](https://github.com/Ciberth/generic-database)
+
 ## Consumer app (charm)
 
 The consumer application in this use case is the idea of a webshop. This charm will use the apache layer, and install some php-pages that display or modify database information for example. 
@@ -69,7 +75,7 @@ class GenericDatabaseClient(Endpoint):
 ```python
 class GenericDatabase(Endpoint):
 
-	@when(endpoint.{endpoint_name}.changed)
+    @when(endpoint.{endpoint_name}.changed)
     def _handle_changed(self):
         technology = self.all_joined_units.received['technology']
         if technology:
